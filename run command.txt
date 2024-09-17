@@ -1,0 +1,2 @@
+Run Students API:
+java -jar students.jar --server.port=9000
